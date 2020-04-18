@@ -1,9 +1,9 @@
-﻿namespace KoganeUnityLib
+﻿namespace UniRemoteChecker
 {
 	/// <summary>
 	/// Unity Remote 5 が接続されているかどうか確認するクラス
 	/// </summary>
-	public static class UniRemoteChecker
+	public static class RemoteChecker
 	{
 		/// <summary>
 		/// <para>接続されている場合 true を返す</para>
